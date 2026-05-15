@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Experimental outputs and downloaded models
+test_data/
+ckpt/
+models/
+plot/
+*.png
+*.pdf
+
+# Logs
+*.log
+
+git_push.sh
